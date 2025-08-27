@@ -1,3 +1,10 @@
+# Copyright (c) 2025 Tianyu Li.
+#
+# If you use or adapt this code in scholarly work, please cite
+# T. Li, Y. Zha, and W. Jiang, "A Fourier Spectral Method for Acoustic Wave Scattering by Localized Flow Inhomogeneities,"
+# Journal of Theoretical and Computational Acoustics, 33, 2550013, 2025.
+# doi: 10.1142/S2591728525500136
+
 import numpy as np
 from scipy.special import hankel1, jv
 
